@@ -4,6 +4,6 @@ A **physics student** and **software developer** from Germany. I love building s
 
 ## You can find most of my current projects on [jurasic.dev](https://jurasic.dev/)
 
-
-<!-- transparent stat banner, full width-->
-![Sitestats banner from pagespeed insights](perfect_sitestats.svg)
+![Image Created with my Raytracer](spectral_planck_dispersion(1).png)
+<!-- transparent stat banner, full width
+![Sitestats banner from pagespeed insights](perfect_sitestats.svg)-->
