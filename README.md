@@ -1,6 +1,6 @@
 # Hi, I’m missing-user! 👋
 
-I'm a **computational physicist** from Germany. I love building simulations, games, and electronics projects — especially anything visual and interactive!
+I'm a **computational physicist** from Germany, specialized in high-performance physics simulatoins, parallel computing and optimization. 
 Right now I’m working on my master’s thesis in fusion research with IPP and Proxima Fusion.
 
 ## You can find most of my current projects on [jurasic.dev](https://jurasic.dev/)
