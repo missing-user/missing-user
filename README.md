@@ -1,7 +1,7 @@
 # Hi, I’m missing-user! 👋
 
 I'm a **computational physicist** from Munich, specialized in high-performance physics simulations, parallel computing, and optimization. 
-Right now I'm finishing my master's thesis in stellarator optimization at the [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/en) and working at [Proxima Fusion](https://www.proximafusion.com/).
+Right now I'm finishing my [master's thesis](https://github.com/missing-user/master-thesis) in stellarator optimization at the [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/en) and working at [Proxima Fusion](https://www.proximafusion.com/).
 
 ## You can find most of my current projects on [jurasic.dev](https://jurasic.dev/)
 
